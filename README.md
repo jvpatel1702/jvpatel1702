@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Jill Patel</h1>
-<h3 align="center">A passionate Programmer struggling in an emerging IT Industry</h3>
+<h3 align="center">A Passionate Programmer struggling in an emerging IT Industry</h3>
 
 - 🌱 I’m currently learning **C++, HTML, JavaScript, CSS, SQL**
 
